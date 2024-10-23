@@ -9,7 +9,7 @@ This is a full-stack recipe book application that allows users to browse, add, a
     - [Frontend](#frontend)
     - [Backend](#backend)
 3. [Folder Structure](#folder-structure)
-    - [Frontend](#client)
+    - [Frontend](#forntend(client))
     - [Backend](#server)
 4. [Installation](#installation)
     - [Prerequisites](#prerequisites)
