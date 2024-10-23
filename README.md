@@ -9,8 +9,8 @@ This is a full-stack recipe book application that allows users to browse, add, a
     - [Frontend](#frontend)
     - [Backend](#backend)
 3. [Folder Structure](#folder-structure)
-    - [Frontend](#frontend(client))
-    - [Backend](#server)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
 4. [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
@@ -46,7 +46,7 @@ This is a full-stack recipe book application that allows users to browse, add, a
 
 ## Folder Structure
 
-### Frontend(Client)
+### Frontend
 
 - **public/**: Static assets
 - **src/**
@@ -57,7 +57,7 @@ This is a full-stack recipe book application that allows users to browse, add, a
   - **index.js**: Entry point of the React app
 - **tailwind.config.js**: Tailwind CSS configuration
 
-### Backend(Server)
+### Backend
 
 - **controllers/**: Business logic for handling API requests
 - **models/**: Sequelize models for users, recipes, etc.
