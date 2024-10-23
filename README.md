@@ -105,7 +105,7 @@ This is a full-stack recipe book application that allows users to browse, add, a
 
     ```bash
     psql -U postgres
-    CREATE DATABASE recipe_app;
+    CREATE DATABASE recipe_app
     ```
 
 5. Run migrations (if applicable):
