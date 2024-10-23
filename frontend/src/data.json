@@ -1,0 +1,32 @@
+{
+  "difficultyLevels": [
+    "Beginner",
+    "Easy",
+    "Intermediate",
+    "Advanced",
+    "Expert"
+  ],
+  "courseTypes": [
+    "Dessert",
+    "Gravy",
+    "Juice",
+    "Main Course",
+    "Salad",
+    "Snack",
+    "Soup",
+    "Starter"
+  ],
+  "cuisineTypes": [
+    "Continental",
+    "Chinese",
+    "Italian",
+    "Japanese",
+    "North Indian",
+    "Mexican"
+  ],
+  "ratings": [
+    { "value": "4", "label": "4⭐ & above" },
+    { "value": "3", "label": "3⭐ & above" },
+    { "value": "2", "label": "2⭐ & above" }
+  ]
+}
